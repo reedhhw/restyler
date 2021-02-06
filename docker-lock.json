@@ -1,0 +1,16 @@
+{
+	"dockerfiles": {
+		"Dockerfile": [
+			{
+				"name": "fpco/stack-build-small",
+				"tag": "lts-14.6",
+				"digest": "96ea16a62503753d7d0091fe30e24ab11595638170c8e8c4868abeb18659732b"
+			},
+			{
+				"name": "ubuntu",
+				"tag": "18.04",
+				"digest": "ea188fdc5be9b25ca048f1e882b33f1bc763fb976a8a4fea446b38ed0efcbeba"
+			}
+		]
+	}
+}
